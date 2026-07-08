@@ -124,6 +124,9 @@ Re-ran the reproduction — `get_playlist_songs()` now returns 7, matching the e
 ## Commits
 
 See `git log --oneline` on `bugfix/mixtape`:
+See attached screenshot (`git-log.png`) showing commit history on `bugfix/mixtape`.
+
+
 ```
 d0db1c3 fix: add missing notification when a friend rates your song
 b3c884f fix: remove erroneous slice that dropped the last song in a playlist
